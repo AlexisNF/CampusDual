@@ -4,27 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="176a97e4-dc81-42e7-9fbb-d9d746345bf9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio06/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio07/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio08/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio5/MyInput.java" afterDir="false" />
+    <list default="true" id="176a97e4-dc81-42e7-9fbb-d9d746345bf9" name="Changes" comment="ejercicios bootcamp">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio08/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio08/main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +23,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7166bd45-c673-4f2f-ab24-9d7137d4f71b" />
+        <option name="url" value="https://github.com/AlexisNF/CampusDual.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2S3lREeudOeojkmOoHhrfkBugmt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -73,7 +68,31 @@
       <option name="presentableId" value="Default" />
       <updated>1688383141018</updated>
     </task>
+    <task id="LOCAL-00001" summary="ejercicios bootcamp">
+      <option name="closed" value="true" />
+      <created>1688538320840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688538320841</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ejercicios bootcamp" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicios bootcamp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
