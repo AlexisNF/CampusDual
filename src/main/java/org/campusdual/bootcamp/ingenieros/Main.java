@@ -2,6 +2,6 @@ package org.campusdual.bootcamp.ingenieros;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        System.out.println("Hello world this is a Social Network!");
     }
 }
