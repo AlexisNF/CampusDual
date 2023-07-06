@@ -18,18 +18,18 @@ public class Main {
         double suma = 0;
 
         double numero = 1;
-        do{
-            suma=x+y;
+        do {
+            suma = x + y;
 
-            System.out.println("Número "+Math.round(numero)+": "+Math.round(suma));
+            System.out.println("Número " + Math.round(numero) + ": " + Math.round(suma));
 
-            x=y;
-            y=suma;
+            x = y;
+            y = suma;
 
             numero++;
             cantElementos--;
         }
-        while(cantElementos>0);
+        while (cantElementos > 0);
 
     }
 

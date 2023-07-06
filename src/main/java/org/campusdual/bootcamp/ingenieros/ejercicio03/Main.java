@@ -10,15 +10,9 @@ public class Main {
         //3. Dado un numero entero, determinar todos los divisores de dicho número
 
         Integer x = Input.integer();
-        for(int i=1; i<=x.intValue(); i++){
-            if(x%i==0)
+        for (int i = 1; i <= x; i++) {
+            if (x % i == 0)
                 System.out.println(i);
         }
-
-
-
-
-
-
     }
 }

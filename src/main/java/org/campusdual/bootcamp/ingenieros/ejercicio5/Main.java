@@ -11,23 +11,20 @@ public class Main{
         // Dado un numero decimal, devolver por separado la parte entera y la parte decimal.
 
         System.out.println("Ejercicio 5 ingrese un número decimal");
-        String numeroDecimal = Input.string();
+        String numeroDecimal = Input.string();//validar que no sea texto
 
-        if(numeroDecimal.contains(",")){
-            String [] cadenas = numeroDecimal.split(",");
-            System.out.println( "parte entera "+cadenas[0]);
-            System.out.println( "parte decimal"+cadenas[1]);
+        if (numeroDecimal.contains(",")) {
+            String[] cadenas = numeroDecimal.split(",");
+            System.out.println("parte entera " + cadenas[0]);
+            System.out.println("parte decimal" + cadenas[1]);
         }
-        if(numeroDecimal.contains(".")){
-            String [] cadenas = numeroDecimal.split("\\.");
-            System.out.println( "parte entera "+cadenas[0]);
-            System.out.println( "parte decimal"+cadenas[1]);
-        }else {
+        if (numeroDecimal.contains(".")) {
+            String[] cadenas = numeroDecimal.split("\\.");
+            System.out.println("parte entera " + cadenas[0]);
+            System.out.println("parte decimal" + cadenas[1]);
+        } else {
             System.out.println(numeroDecimal);
         }
     }
 
-    private String devolverParteEnteraYDecimal(){
-     return "";
-    }
 }

@@ -9,19 +9,13 @@ public class Main {
     private static LinkedList<Integer> lista = new LinkedList<Integer>();
 
     public static void main(String[] args) {
-
-
         /*
         8. Crear un programa con un menú de línea de comandos.
 a. Si se selección la opción “a”, se solicitará un numero para añadir a la lista.
 b. Si se selección la opción “s”, se devolverá la suma de los elementos de la lista.
 c. Si se selecciona la opción “d” se eliminará el último elemento de la lista.
          */
-
         System.out.println("Ejercicio 8");
-
-
-
 
         boolean exit = false;
         initializeList();
@@ -78,15 +72,15 @@ c. Si se selecciona la opción “d” se eliminará el último elemento de la l
     }
 
 
-    private static void initializeList(){
+    private static void initializeList() {
 
-        for(int i=0; i<10;i++){
+        for (int i = 0; i < 10; i++) {
             lista.add(i);
         }
 
     }
 
-    private static void  mostrarComandos(){
+    private static void mostrarComandos() {
         System.out.println("");
         System.out.println("Seleccione un comando de la siguiente lista");
         System.out.println("Presione 'a' para añadir un # a la lista");
@@ -96,13 +90,13 @@ c. Si se selecciona la opción “d” se eliminará el último elemento de la l
         System.out.println("Presione 'e' para salir del programa");
     }
 
-    private static void mostrarListadDetallada(){
+    private static void mostrarListadDetallada() {
 
-        System.out.println("El tamaño de la lista es "+lista.size());
+        System.out.println("El tamaño de la lista es " + lista.size());
 
-        for (Integer v:lista
-             ) {
-            System.out.println("Posicion "+lista.indexOf(v)+" valor: "+v.intValue());
+        for (Integer v : lista
+        ) {
+            System.out.println("Posicion " + lista.indexOf(v) + " valor: " + v.intValue());
         }
 
     }

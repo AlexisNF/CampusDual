@@ -4,9 +4,64 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="176a97e4-dc81-42e7-9fbb-d9d746345bf9" name="Changes" comment="ejercicios bootcamp">
+    <list default="true" id="176a97e4-dc81-42e7-9fbb-d9d746345bf9" name="Changes" comment="ejercicios bootcampejercicios bootcamp">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio09/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio09/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio09/Medio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio09/Reino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio09/Tipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio10/clases/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio10/clases/Medio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio10/clases/Reino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio10/clases/Tipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio10/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio11/clases/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio11/clases/AnimalGranja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio11/clases/IPropietario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio11/clases/Mascota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio11/clases/Medio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio11/clases/Reino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio11/clases/Tipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio11/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio12/Interfaces/IPropietario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio12/clases/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio12/clases/AnimalGranja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio12/clases/AnimalSalvage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio12/clases/Animales/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio12/clases/Animales/Oveja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio12/clases/Animales/Perro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio12/clases/Animales/PezPayaso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio12/clases/Animales/Tucan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio12/clases/Animales/Vaca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio12/clases/Mascota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio12/clases/Medio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio12/clases/Reino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio12/clases/Tipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio12/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejericicio13/clases/AnimalGranja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejericicio13/clases/AnimalSalvage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejericicio13/clases/Mascota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejericicio13/clases/Medio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejericicio13/clases/Reino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejericicio13/clases/Tipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejericicio13/clases/animales/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejericicio13/clases/animales/Oveja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejericicio13/clases/animales/Perro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejericicio13/clases/animales/PezPayaso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejericicio13/clases/animales/Tucan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejericicio13/clases/animales/Vaca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejericicio13/clases/principal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejericicio13/interfaces/IPropietario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejericicio13/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio08/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio08/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio03/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio06/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio06/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio07/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio07/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio08/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio08/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/campusdual/bootcamp/ingenieros/ejercicio5/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +72,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -43,20 +99,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/ALEX/Documents/CAMPUS DUAL TIC/Projects/EjercicioRedSocial/src/main/java/org/campusdual/bootcamp/ingenieros/ejericicio13",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ALEX\Documents\CAMPUS DUAL TIC\Projects\EjercicioRedSocial\src\main\java\org\campusdual\bootcamp\ingenieros\ejericicio13" />
+      <recent name="C:\Users\ALEX\Documents\CAMPUS DUAL TIC\Projects\EjercicioRedSocial\src\main\java\org\campusdual\bootcamp\ingenieros\ejercicio12" />
+      <recent name="C:\Users\ALEX\Documents\CAMPUS DUAL TIC\Projects\EjercicioRedSocial\src\main\java\org\campusdual\bootcamp\ingenieros\ejercicio11" />
+      <recent name="C:\Users\ALEX\Documents\CAMPUS DUAL TIC\Projects\EjercicioRedSocial\src\main\java\org\campusdual\bootcamp\ingenieros\ejercicio10\clases" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.campusdual.bootcamp.ingenieros.ejercicio09" />
       <recent name="org.campusdual.bootcamp.ingenieros.ejercicio08" />
       <recent name="org.campusdual.bootcamp.ingenieros.ejercicio07" />
       <recent name="org.campusdual.bootcamp.ingenieros.ejercicio06" />
       <recent name="org.campusdual.bootcamp.ingenieros.ejercicio5" />
-      <recent name="org.campusdual.bootcamp.ingenieros.ejercicio4" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -76,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688538320841</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ejercicios bootcampejercicios bootcamp">
+      <option name="closed" value="true" />
+      <created>1688545990188</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688545990188</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,7 +166,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ejercicios bootcamp" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicios bootcamp" />
+    <MESSAGE value="ejercicios bootcampejercicios bootcamp" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicios bootcampejercicios bootcamp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -16,21 +16,20 @@ public class Main {
             Main.funcionNumberPar();
 
 
-        } catch (NumberFormatException e){
-                System.out.println("Introduzca un número entero");
+        } catch (NumberFormatException e) {
+            System.out.println("Introduzca un número entero");
         } finally {
             System.out.println("fin de ejercicio 01");
         }
 
     }
 
-    private static void funcionNumberPar(){
+    private static void funcionNumberPar() {
         //////////////////Ejercicio 01/////////////////////////
         Integer number = Input.integer();
-        if(number.intValue()%2==0){
+        if (number % 2 == 0) {
             System.out.println("El número es par");
-        }
-        else{
+        } else {
             System.out.println("el número es impar");
         }
         //////////////////////////////////////////////////////
